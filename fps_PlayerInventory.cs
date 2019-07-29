@@ -2,8 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class fps_PlayerInventory : MonoBehaviour
-{
+public class fps_PlayerInventory : MonoBehaviour {
     //设定集合进行钥匙卡ID的存储
     private List<int> keysArr;
     private void Start()
